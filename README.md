@@ -10,7 +10,7 @@
 - **Level:** 3  
 - **Background:** Morros Survivor (Guild Artisan variant)  
 - **Alignment:** Neutral Good  
-- **Age:** 22  
+- **Age:** 42  
 - **Height:** 6'10"  
 - **Weight:** 280 lbs  
 - **Eyes:** Brown  
@@ -83,6 +83,7 @@
 - **Letter of Introduction (Tinker’s Guild)**
 - **Belt pouch (20 gp)**
 
+
 ### Bag of Holding (Significant Contents)
 
 - Guard Captain Oliver’s Head (plot evidence)
@@ -90,6 +91,12 @@
 - Letter – “Your Grace”
 - 5 sets of manacles
 - 5 pairs of finely crafted shoes
+- camping goods
+- 2 tents
+- firemaking tools
+- 2 torches
+- Spell Scroll (Snilloc's Snowball Swarm)
+
 
 ---
 
