@@ -6,9 +6,9 @@
 
 - **Name:** Rook Ironhand  
 - **Race:** Custom Lineage (Half-Giant, not Goliath)  
-- **Class:** Artificer (Armorer)  
-- **Level:** 3  
-- **Background:** Morros Survivor (Guild Artisan variant)  
+- **Class:** Artificer (Armorer)
+- **Level:** 4
+- **Background:** Morros Survivor (Guild Artisan variant)
 - **Alignment:** Neutral Good  
 - **Age:** 42  
 - **Height:** 6'10"  
@@ -17,10 +17,12 @@
 - **Hair:** Black, cropped short, always unruly  
 - **Skin:** Light olive, weathered  
 - **Pronouns:** He/Him  
-- **Languages:** Common, Giant, Gnomish  
-- **Speed:** 30 ft  
-- **Darkvision:** 60 ft  
-- **Campaign:** Skyfall: Dungeons & Bears  
+- **Languages:** Common, Giant, Gnomish
+- **Speed:** 30 ft
+- **Armor Class:** 15
+- **Hit Points:** 34
+- **Darkvision:** 60 ft
+- **Campaign:** Skyfall: Dungeons & Bears
 
 ---
 
@@ -28,10 +30,10 @@
 
 | Ability      | Score | Modifier | Description                                  |
 |--------------|-------|----------|----------------------------------------------|
-| Strength     | 16    | +3       | Towering, muscular frame and work-hardened   |
+| Strength     | 13    | +1       | Lean but powerful half-giant frame           |
 | Dexterity    | 10    | +0       | Average, steady hands                        |
-| Constitution | 13    | +1       | Robust from Morros life                      |
-| Intelligence | 16    | +3       | Natural inventor and quick learner           |
+| Constitution | 16    | +3       | Sturdy survivor of Morros                    |
+| Intelligence | 18    | +4       | Brilliant inventor and quick learner         |
 | Wisdom       | 10    | +0       | Streetwise, practical                        |
 | Charisma     | 10    | +0       | Gruff, honest                                |
 | Proficiency Bonus | 2 |         | For skills, tools, attacks, saves            |
@@ -40,8 +42,8 @@
 
 ## Saving Throws
 
-- **Proficient:** Intelligence (+5), Constitution (+3)
-- **Others:** Strength (+3), Dexterity (+0), Wisdom (+0), Charisma (+0)
+- **Proficient:** Intelligence (+6), Constitution (+5)
+- **Others:** Strength (+1), Dexterity (+0), Wisdom (+0), Charisma (+0)
 
 ---
 
@@ -49,13 +51,13 @@
 
 | Skill           | Mod | Prof/Expertise | Notes                                      |
 |-----------------|-----|----------------|---------------------------------------------|
-| Investigation   | +7  | Expertise      | Skill Expert feat + class proficiency       |
+| Investigation   | +8  | Expertise      | Skill Expert feat + class proficiency       |
 | Perception      | +2  | Proficient     | Alert, trained by hardship                  |
 | Insight         | +2  | Proficient     | Good judge of intent, cautious              |
 | Persuasion      | +2  | Proficient     | Guild negotiations, honest demeanor         |
-| Arcana          | +3  | Proficient     | Self-taught magic theory, practical uses    |
-| Athletics       | +5  | Proficient     | Half-giant strength                         |
-| History         | +3  | —              | Knows Skyfall lore, not a bookworm          |
+| Arcana          | +4  | —              | Self-taught magic theory, practical uses    |
+| Athletics       | +3  | Proficient     | Half-giant strength                         |
+| History         | +4  | —              | Knows Skyfall lore, not a bookworm          |
 
 ---
 
@@ -63,7 +65,7 @@
 
 - **Armor:** Light, medium, shields (Arcane Armor at 3)
 - **Weapons:** Simple weapons  
-- **Tools:** Tinker’s Tools (expertise), Thieves’ Tools, Calligrapher’s Supplies, Carpenter’s Tools, Weaver’s Tools  
+- **Tools:** Tinker’s Tools, Thieves’ Tools, Carpenter’s Tools, Weaver’s Tools, Smith’s Tools
 - **Languages:** Common, Giant, Gnomish  
 
 ---
@@ -72,11 +74,11 @@
 
 ### Equipped
 
-- **Arcane Armor** (scale mail, Enhanced Defense infusion, AC 16)
-- **Shield** (Enhanced Defense infusion, +1 AC)
+- **Arcane Armor** (scale mail, Enhanced Defense infusion, AC 15)
+- **Wand of Secrets** (infused)
 - **Thunder Gauntlets** (Armorer Guardian: melee, 1d8 thunder, magical)
 - **Wedding Ring of Cold Resistance** (worn, attuned)
-- **Light Hammer** (Returning Weapon, +1 atk/dmg, returns when thrown)
+- **Light Hammer**
 - **Light Crossbow** + 20 bolts
 - **Dungeoneer’s Pack** (rope, torches, rations, crowbar, etc.)
 - **Artisan’s Clothes**
@@ -106,21 +108,21 @@
 
 - **Spellcasting Ability:** Intelligence  
 - **Spell Save DC:** 13  
-- **Spell Attack Bonus:** +5  
+- **Spell Attack Bonus:** +6
 - **Spell Slots:** 3 (1st-level)  
 - **Cantrips:** Fire Bolt, Mending  
 
-### Always Prepared (Armorer 3)
+### Always Prepared (Armorer)
 - **Magic Missile:** 3 darts, 1d4+1 force, always hit  
 - **Thunderwave:** 15-ft cube, 2d8 thunder (Con save, push)
 
-### Prepared Spells (choose 6 per day)
+### Spells Known
+- Absorb Elements
 - Cure Wounds
+- Expeditious Retreat
 - Faerie Fire
+- Feather Fall
 - Grease
-- Sanctuary
-- Detect Magic
-- Alarm
 
 ---
 
@@ -129,11 +131,10 @@
 - **Magical Tinkering:** Imbue small objects with magical effects
 - **Skill Expert (feat):** Investigation expertise, Insight proficiency, +1 INT
 - **Darkvision 60 ft**
-- **Powerful Build:** Count as one size larger for carrying/lifting
-- **Infusions:** 4 known, 2 active (Enhanced Defense, Returning Weapon, Mind Sharpener, Repeating Shot)
+- **Infusions:** 4 known; active: Enhanced Defense, Wand of Secrets; inactive: Homunculus Servant, Sending Stones
 - **Arcane Armor:** Can't be removed by others, acts as focus, melds at rest
-- **Thunder Gauntlets:** +5 to hit, 1d8 thunder, imposes disadvantage to attack others
-- **Defensive Field:** Bonus action, gain 2 temp HP each turn
+- **Thunder Gauntlets:** +6 to hit, 1d8 thunder, imposes disadvantage to attack others
+- **Defensive Field:** Bonus action, gain 4 temp HP (twice per long rest)
 - **Cold Resistance (wedding ring):** Take half cold damage
 
 ---
@@ -160,6 +161,7 @@ Rook Ironhand, half-giant born to hardship, is a survivor of the slums of Morros
 | 1       | Character created (Artificer 1, Custom Lineage, Investigation expertise via Skill Expert).              |
 | 2       | Added 5 sets of manacles and 5 pairs of fine shoes to Bag of Holding.                                   |
 | 3       | Acquired Bag of Holding, wedding ring (cold resistance), letters, and Captain Oliver’s head. Leveled up to Artificer 3 (Armorer Guardian), gained Arcane Armor, Thunder Gauntlets, Defensive Field, Magic Missile & Thunderwave always prepared. |
+| 4       | Reached Artificer 4, boosted Intelligence, activated Wand of Secrets infusion.                           |
 
 ---
 
@@ -173,58 +175,57 @@ Rook Ironhand, half-giant born to hardship, is a survivor of the slums of Morros
 ---
 
 ## JSON Stat Block
-
 ```json
 {
   "name": "Rook Ironhand",
-  "race": "Custom Lineage (Half-Giant)",
-  "class": "Artificer (Armorer)",
-  "level": 3,
+  "race": "Custom Lineage",
+  "class": "Artificer",
+  "level": 4,
   "background": "Morros Survivor",
   "alignment": "Neutral Good",
   "abilities": {
-    "strength": 16,
+    "strength": 13,
     "dexterity": 10,
-    "constitution": 13,
-    "intelligence": 16,
+    "constitution": 16,
+    "intelligence": 18,
     "wisdom": 10,
     "charisma": 10
   },
   "proficiency_bonus": 2,
-  "armor_class": 16,
-  "hit_points": 20,
+  "armor_class": 15,
+  "hit_points": 34,
   "initiative": 0,
   "speed": 30,
   "saving_throws": {
-    "intelligence": 5,
-    "constitution": 3,
-    "strength": 3,
+    "intelligence": 6,
+    "constitution": 5,
+    "strength": 1,
     "dexterity": 0,
     "wisdom": 0,
     "charisma": 0
   },
   "skills": {
-    "investigation": 7,
+    "investigation": 8,
     "perception": 2,
     "insight": 2,
     "persuasion": 2,
-    "arcana": 3,
-    "athletics": 5
+    "arcana": 4,
+    "athletics": 3
   },
   "tools": [
     "Tinker’s Tools",
-    "Thieves’ Tools",
-    "Calligrapher’s Supplies",
+    "Thieves' Tools",
     "Carpenter’s Tools",
-    "Weaver’s Tools"
+    "Weaver’s Tools",
+    "Smith’s Tools"
   ],
   "languages": ["Common", "Giant", "Gnomish"],
   "equipment": [
     "Arcane Armor (Scale Mail, Enhanced Defense)",
-    "Shield (Enhanced Defense)",
+    "Wand of Secrets",
     "Thunder Gauntlets",
     "Wedding Ring of Cold Resistance",
-    "Light Hammer (Returning Weapon)",
+    "Light Hammer",
     "Light Crossbow",
     "20 bolts",
     "Dungeoneer’s Pack",
@@ -235,27 +236,27 @@ Rook Ironhand, half-giant born to hardship, is a survivor of the slums of Morros
   ],
   "bag_of_holding": [
     "Guard Captain Oliver’s Head",
-    "Letter – “My Dearest Oliver”",
-    "Letter – “Your Grace”",
+    "Letter – 'My Dearest Oliver'",
+    "Letter – 'Your Grace'",
     "5 sets of manacles",
     "5 pairs of finely crafted shoes"
   ],
   "cantrips": ["Fire Bolt", "Mending"],
   "spells_always_prepared": ["Magic Missile", "Thunderwave"],
-  "prepared_spells": [
+  "spells_known": [
+    "Absorb Elements",
     "Cure Wounds",
+    "Expeditious Retreat",
     "Faerie Fire",
-    "Grease",
-    "Sanctuary",
-    "Detect Magic",
-    "Alarm"
+    "Feather Fall",
+    "Grease"
   ],
   "spell_slots_1st": 3,
   "features_traits": [
     "Skill Expert (Investigation Expertise, +1 INT, Insight)",
     "Darkvision 60ft",
     "Magical Tinkering",
-    "Infuse Item (Returning Weapon, Enhanced Defense, Mind Sharpener, Repeating Shot)",
+    "Infuse Item (Enhanced Defense, Wand of Secrets, Homunculus Servant, Sending Stones)",
     "Arcane Armor",
     "Thunder Gauntlets",
     "Defensive Field",
@@ -268,3 +269,4 @@ Rook Ironhand, half-giant born to hardship, is a survivor of the slums of Morros
     "flaws": "Stubborn, hates bureaucracy, sometimes misses emotional cues."
   }
 }
+```
